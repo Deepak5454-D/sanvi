@@ -1,0 +1,10 @@
+{
+  "description": "Explore handcrafted Kanchipuram silk sarees, style complete looks, browse boutique collections, and discover bridal pieces in a luxury Indian fashion experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
